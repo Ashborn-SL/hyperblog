@@ -1,8 +1,0 @@
-primera parte
-    inicio
-
-    En el año de 2044, los porta pieles son mal vistos por sus actos en el pasado.
-
-    depsues de esto esmpezatona a ser cazados como criminales.
-
-    Nota: nos pasaremos a u formato markdown (.md)
