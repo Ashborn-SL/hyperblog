@@ -1,0 +1,3 @@
+# Inicia una nueva historia
+
+En el mundo tras la guerra contra las maquinas, el humano casi perecio, pero con su inteligencia y abaricia de sobrevivir logro doblegar a la maquina y una ves más el ser humano logro demostrar que no hay mejor depredador que uno de carne, hueso, sangre caliente, instinto, oscuridad y frialdad que surgen des de lo mas profundo de sus ser...
