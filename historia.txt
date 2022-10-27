@@ -1,5 +1,2 @@
-Este es el primer intento de commit con git
-
-esta hacienod mucha calor el dia de hoy
-
-esta es una linea sublime
+primera parte
+    inicio
