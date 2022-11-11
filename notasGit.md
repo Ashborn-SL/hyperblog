@@ -248,3 +248,7 @@ git rm --force: Elimina los archivos de Git y del disco duro. Git siempre guarda
 
 hay cun comando para hacer un agit add . y commit en el mismo comando, pero solo funciona si los archivos previamente ya les abiamos echo un add anteriormente, en archivos completamente nuevo esto no va a funcionar  
 >git commmit -am "esto es un cambio nuevo"
+
+## 15 Introducción a las ramas o branches de Git
+
+para hacer un rara
