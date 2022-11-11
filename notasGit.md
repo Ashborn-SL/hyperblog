@@ -247,4 +247,4 @@ git rm --cached: Elimina los archivos de nuestro repositorio local y del área d
 git rm --force: Elimina los archivos de Git y del disco duro. Git siempre guarda todo, por lo que podemos acceder al registro de la existencia de los archivos, de modo que podremos recuperarlos si es necesario (pero debemos usar comandos más avanzados).
 
 hay cun comando para hacer un agit add . y commit en el mismo comando, pero solo funciona si los archivos previamente ya les abiamos echo un add anteriormente, en archivos completamente nuevo esto no va a funcionar  
->git commmit -am
+>git commmit -am "esto es un cambio nuevo"
